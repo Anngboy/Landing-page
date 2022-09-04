@@ -1,24 +1,6 @@
-.header{
-    color: #f9faf8;
-    font-size: 24px;
-    display: flex;
-    background-color: #1f2937;
+body{
+    font-family: "roboto", sans-serif;
+    width: 100vw;
+    height: 100vh;
 }
 
-.right-links{
-    background-color: #1f2937;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-   
-}
-
-.{
-    font-size: 24px #f9faf8;
-}
-.info{
-    border: solid 10px black;
-}
-.container-pic{
-    display: flex;
-}
